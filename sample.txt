@@ -2,3 +2,4 @@ hello world
 good morning 
 how are you 
 i am studying B.E, cse in rmd college
+they are my true friends
